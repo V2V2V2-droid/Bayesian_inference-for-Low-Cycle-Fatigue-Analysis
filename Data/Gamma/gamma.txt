@@ -1,0 +1,6 @@
+Crack ratio values for the studied specimens
+Specimen	Value
+40	1.74
+60	2.78
+80	3.86
+100	6.63
